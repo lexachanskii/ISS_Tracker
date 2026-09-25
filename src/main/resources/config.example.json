@@ -1,0 +1,34 @@
+{
+  "apis": [
+    {
+      "name": "n2yo",
+      "baseUrl": "https://api.n2yo.com/rest/v1/satellite/visualpasses",
+      "extra_path": [25544, 60.007194, 30.381778, 0, 1, 150],
+      "params": {
+        "apiKey": "YOUR_API_KEY"
+      }
+    },
+    {
+      "name": "openweathermap",
+      "baseUrl": "https://api.openweathermap.org/data/2.5/forecast",
+      "extra_path": [],
+      "params": {
+        "lat": 60.007194,
+        "lon":  30.381778,
+        "units": "metric",
+        "cnt": 1,
+        "appid": "YOUR_API_KEY"
+      }
+    },
+    {
+      "name": "sunrise-sunset",
+      "baseUrl": "https://api.sunrise-sunset.org/json",
+      "extra_path": [],
+      "params": {
+        "lat": 60.007194,
+        "lng":  30.381778,
+        "date": "today"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+id,timestamp,pass.startUTC,pass.startLocal,pass.remaining,pass.endUTC,pass.endLocal,pass.maxEl,pass.direction,pass.duration,pass.mag,weather.clouds,weather.description,weather.temp,weather.windSpeed,twilight.civilEnd,twilight.civilEndLocal,twilight.astroEnd,twilight.astroEndLocal,verdict
+1,1773745546871,1773767890,20:18:10 17.03.2026,6:12:24,1773768470,20:27:50 17.03.2026,17.65,SW->E,395,-0.2,14,few clouds,8.54,2.1,4:46:12 PM,19:46:12,6:28:40 PM,21:28:40,VISIBLE
